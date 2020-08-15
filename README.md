@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<!-- ![Stay Hungry Stay Foolish](https://i.imgur.com/Hpzyb5z.gif) -->
+
+![Comming soon](https://thumbs.gfycat.com/ImpracticalNarrowAndalusianhorse-small.gif)
+
+
 <!--
 **LeulAria/LeulAria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
