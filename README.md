@@ -1,4 +1,4 @@
-### 👋 Im [Leul](https://leularia.github.io/portfolio/)
+### 👋 Im [Leul](https://leularia.github.io/Portfolio/)
 
 <!-- ![Stay Hungry Stay Foolish](https://i.imgur.com/Hpzyb5z.gif) -->
 
