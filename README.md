@@ -1,4 +1,4 @@
-### 👋 Im [Leul](https://leularia.github.io/Portfolio/)
+### 👋 Im ⚡ Leul [More About Me 📫](https://leularia.vercel.app)
 
 <!-- ![Stay Hungry Stay Foolish](https://i.imgur.com/Hpzyb5z.gif) -->
 
