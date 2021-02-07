@@ -5,7 +5,10 @@
       <a href="https://leularia.vercel.app">&nbsp;&nbsp;&nbsp;More About Me...</a>  
     </td>
     <td>
-      <img width="250px" align="center" src="https://i.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" />
+      <img width="300px" align="center" src="https://i.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" />
+    </td>
+    <td>
+      <img width="300px" align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
     </td>
   </tr>
 </table>
