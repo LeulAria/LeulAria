@@ -1,4 +1,9 @@
-<table border="0">
+<b>
+  <h2>👋 Im Leul</h1>
+  <p>More About Me... <a href="https://leularia.vercel.app">Here</a></p>
+</b>
+
+<!-- <table border="0">
   <tr>
     <td>
       <h2>&nbsp;&nbsp;&nbsp;&nbsp; 👋 Im Leul &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
@@ -11,4 +16,4 @@
       <img width="300px" align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
     </td>
   </tr>
-</table>
+</table> -->
