@@ -1,8 +1,13 @@
 <b>
-  <h2>👋 Im Leul</h1>
-  <p>More About Me... <a href="https://leularia.vercel.app">Here</a></p>
+   <p>
+     👋 I'am Leul 
+    </p>
+  <p>
+    <a href="https://leularia.vercel.app"><img height="27px" src="https://img.shields.io/badge/- More About Me Here-blue?style=?style=for-the-badge&logo=amp" /></a> 
+  <p>
 </b>
 
+<!-- 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -16,4 +21,4 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
+</p> -->
