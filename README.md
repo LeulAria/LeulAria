@@ -3,7 +3,7 @@
      👋 I'am Leul 
     </p>
   <p>
-    <a href="https://leularia.vercel.app"><img height="27px" src="https://img.shields.io/badge/- More About Me Here-darkblue?style=?style=for-the-badge&logo=amp" /></a> 
+    <a href="https://leularia.vercel.app"><img height="30px" src="https://img.shields.io/badge/- More About Me Here-black?style=?style=for-the-badge&logo=amp" /></a> 
   <p>
 </b>
 
