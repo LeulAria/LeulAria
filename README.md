@@ -1,9 +1,13 @@
 <b>
-   <p>
-     👋 I'am Leul 
-    </p>
+   <h2>
+     👋 Hooray...
+  </h2>
+  👨🏻‍💻 Programming, ♒ Aquarius, 🎨 Painting, 🎸 Music, 🇪🇹 Ethiopia, 🧭 Travelling, ❤️ Psycology  
+  <br />
   <p>
-    <a href="https://leularia.vercel.app"><img height="30px" src="https://img.shields.io/badge/- More About Me Here-black?style=?style=for-the-badge&logo=amp" /></a> 
+    <a href="https://leularia.vercel.app">
+    more about me. 
+    </a> 
   <p>
 </b>
 
