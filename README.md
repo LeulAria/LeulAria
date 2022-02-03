@@ -1,6 +1,6 @@
 <b>
    <h2>
-     👋 Hooray...
+     👋 Hooray... <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=LeulAria"></a>
   </h2>
   👨🏻‍💻 Programming, ♒ Aquarius, 🎨 Painting, 🎸 Music, 🇪🇹 Ethiopia, 🧭 Travelling, ❤️ Psycology  
   <br />
