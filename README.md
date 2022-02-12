@@ -8,7 +8,6 @@
   <p align="center">
    👨🏻‍💻 Programming, ♒ Aquarius, 🎨 Painting, 🎸 Music, 🇪🇹 Ethiopia, 🧭 Travelling, ❤️ Psycology  
   </p>
-  <br />
   <p align="center">
     <a href="https://leularia.vercel.app">
     more about me. 
