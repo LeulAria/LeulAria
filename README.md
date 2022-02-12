@@ -1,10 +1,15 @@
 <b>
-   <h2>
-     👋 Hooray... <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=LeulAria"></a>
-  </h2>
-  👨🏻‍💻 Programming, ♒ Aquarius, 🎨 Painting, 🎸 Music, 🇪🇹 Ethiopia, 🧭 Travelling, ❤️ Psycology  
+   <p align="center">
+     👋 Hooray...
+  </p>
+  <p align="center">
+     <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=LeulAria"></a>
+  </p>
+  <p align="center">
+   👨🏻‍💻 Programming, ♒ Aquarius, 🎨 Painting, 🎸 Music, 🇪🇹 Ethiopia, 🧭 Travelling, ❤️ Psycology  
+  </p>
   <br />
-  <p>
+  <p align="center">
     <a href="https://leularia.vercel.app">
     more about me. 
     </a> 
