@@ -1,0 +1,23 @@
+{
+    "name": "antfu",
+    "version": "0.0.0",
+    "description": "Hi, I am LeulAria",
+    "bugs": "https://github.com/LeulAria/LeulAria",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/LeulAria/LeulAria"
+    },
+    "funding": "https://github.com/sponsors/leularia",
+    "license": "MIT",
+    "author": "leularia <leulsegedtariku@gmail.com>",
+    "main": "index.js",
+    "bin": {
+      "leularia": "./index.js"
+    },
+    "files": [
+      "index.js"
+    ],
+    "dependencies": {
+      "open": "^8.2.1"
+    }
+  }

@@ -1,9 +1,22 @@
-<b>
+
+
+<p align="center">
+    <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=LeulAria"></a>
+</p>
+<p align="center">
+  <samp>
+    <a href="https://leularia.vercel.app">portfolio</a> .
+    <a href="https://leularia.vercel.app/blog">blog</a> .
+    <a href="https://leularia.vercel.app/projects">projects</a> .
+    <a href="https://linkedin.com/in/leularia">linkedin</a> .
+    <a href="https://twitter.com/leularia">tweets</a> .
+    <a href="https://github.com/sponsors/leularia">sponsor</a>
+  </samp>
+</p>
+
+<!-- <b>
    <p align="center">
      👋 Hooray...
-  </p>
-  <p align="center">
-     <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=LeulAria"></a>
   </p>
   <p align="center">
    👨🏻‍💻 Programming, ♒ Aquarius, 🎨 Painting, 🎸 Music, 🇪🇹 Ethiopia, 🧭 Travelling, ❤️ Psycology  
@@ -13,7 +26,7 @@
     more about me. 
     </a> 
   <p>
-</b>
+</b> -->
 
 <!-- 
 <p>
