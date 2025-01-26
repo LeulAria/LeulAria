@@ -1,8 +1,8 @@
 <p align="center">
   <samp>
-    <a href="https://leularia.vercel.app">portfolio</a> .
-    <a href="https://leularia.vercel.app/blog">blog</a> .
-    <a href="https://leularia.vercel.app/projects">projects</a> .
+    <a href="https://leularia.com">portfolio</a> .
+    <a href="https://leularia.com/blog">blog</a> .
+    <a href="https://leularia.com">projects</a> .
     <a href="https://linkedin.com/in/leularia">linkedin</a> .
     <a href="https://twitter.com/leularia">tweets</a> .
     <a href="https://github.com/sponsors/leularia">sponsor</a>
