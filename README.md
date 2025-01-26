@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     <a href="https://leularia.com">portfolio</a> .
-    <a href="https://leularia.com/blog">blog</a> .
+    <a href="https://leularia.com/blogs">blogs</a> .
     <a href="https://leularia.com">projects</a> .
     <a href="https://linkedin.com/in/leularia">linkedin</a> .
     <a href="https://twitter.com/leularia">tweets</a> .
